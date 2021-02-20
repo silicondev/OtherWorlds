@@ -1,0 +1,47 @@
+{
+  "_fv": 13,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.STAINED_HARDENED_CLAY#15"
+    },
+    "portalParticles": {
+      "value": "SMOKE_NORMAL"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Red Reality Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "ice_rod",
+    "portalTexture": "red_reality_portal",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:RedHell"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:HardenedRedMass"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:RedMass"
+    },
+    "airColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": false,
+    "isDark": true,
+    "doesWaterVaporize": true,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false
+  }
+}

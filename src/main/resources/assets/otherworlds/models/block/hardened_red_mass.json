@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "otherworlds:blocks/hardened_red_mass",
+    "up": "otherworlds:blocks/hardened_red_mass",
+    "north": "otherworlds:blocks/hardened_red_mass",
+    "east": "otherworlds:blocks/hardened_red_mass",
+    "south": "otherworlds:blocks/hardened_red_mass",
+    "west": "otherworlds:blocks/hardened_red_mass",
+    "particle": "otherworlds:blocks/hardened_red_mass"
+  }
+}

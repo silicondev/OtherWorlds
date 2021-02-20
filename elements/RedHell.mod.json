@@ -1,0 +1,64 @@
+{
+  "_fv": 13,
+  "_type": "biome",
+  "definition": {
+    "name": "Red Hell",
+    "groundBlock": {
+      "value": "CUSTOM:HardenedRedMass"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:HardenedRedMass"
+    },
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "CUSTOM:HardenedRedMass"
+    },
+    "treeBranch": {
+      "value": "Blocks.NETHER_WART_BLOCK"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "treesPerChunk": 0,
+    "grassPerChunk": 0,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "rainingPossibility": 0.5,
+    "temperature": 2.0,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": false,
+    "biomeWeight": 10,
+    "biomeType": "DESERT",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "spawnStronghold": true,
+    "spawnMineshaft": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "oceanRuinType": "NONE",
+    "biomeDictionaryTypes": [],
+    "defaultFeatures": [],
+    "spawnEntries": []
+  }
+}

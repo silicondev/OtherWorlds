@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "otherworlds:block/nilfheim_portal_ew"
+    },
+    "axis=x": {
+      "model": "otherworlds:block/nilfheim_portal_ns"
+    }
+  }
+}
