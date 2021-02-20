@@ -1,0 +1,89 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Nilfheim",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nilfheim"
+    },
+    {
+      "name": "RedMass",
+      "type": "fluid",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_mass"
+    },
+    {
+      "name": "HardenedRedMass",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_red_mass"
+    },
+    {
+      "name": "RedReality",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_reality"
+    },
+    {
+      "name": "IceWorld",
+      "type": "biome",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_world"
+    },
+    {
+      "name": "RedHell",
+      "type": "biome",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_hell"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.otherworlds.red_mass_bucket": "RedMass Bucket",
+      "biome.otherworlds.red_hell": "Red Hell",
+      "item.otherworlds.nilfheim": "Ice Rod",
+      "fluid.red_mass": "RedMass",
+      "biome.otherworlds.ice_world": "Ice World",
+      "block.otherworlds.hardened_red_mass": "Hardened Red Mass",
+      "item.otherworlds.red_reality": "Red Reality Portal Igniter"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "otherworlds",
+    "modName": "OtherWorlds",
+    "version": "1.0.0",
+    "author": "jsims, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "io.github.silicondev.otherworlds",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
