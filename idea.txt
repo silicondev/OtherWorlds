@@ -1,0 +1,16 @@
+Ice World -
+Lava is Water
+Mob: Cow men, non hostile to players, hostile to pigs.
+Stonebrick ruins.
+
+Red Reality -
+No light level, other than artificial light
+Netherrack is "Hardened mass" darker shade of netherrack
+Lava is "Red Mass", does damage slower than lava, cannot move while in it, sinks just like lava
+Mob: Shades, hostile, will do high damage but vanish in a puff of smoke when they hit you. Can be found everywhere, dies in one hit.
+ruins?
+
+Wasteland -
+Gray skies, very flat desert sand ground with dead bushes
+Every so often you will find a useless iron door
+creepy monster?

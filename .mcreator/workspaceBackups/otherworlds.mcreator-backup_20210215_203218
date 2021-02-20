@@ -1,0 +1,26 @@
+{
+  "id_map": {},
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "otherworlds",
+    "modName": "OtherWorlds",
+    "version": "1.0.0",
+    "author": "jsims, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "io.github.silicondev.otherworlds",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
